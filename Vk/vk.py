@@ -204,7 +204,7 @@ class SocialOffer:
 
 # ==========================================VKONTAKTE PARSER==================================================
 
-ACCESS_TOKEN = "732c7b09732c7b09732c7b090673709b7f7732c732c7b092a6093eafb623ad5547f142f"
+ACCESS_TOKEN = ""
 
 COMMUNITIES = [{'id': '1060484', 'name': "sdamsnimu"},
                {'id': '29403745', 'name': "sdatsnyat"},
